@@ -8,8 +8,8 @@
       "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.3/Warp.Gateway_0.1.3_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHo5aHNSZWRoTkM1NjNMN3pKK1BNaDRza0VCdWdtamRMZkI2UHRFRVU1aFJsQmc5eDhTNUorVkhxb05BUjBVTTNQUTlUeTQwK3BwdVQ0eXVaUWFJWmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODIzMzEwCWZpbGU6V2FycC1HYXRld2F5XzAuMS4zX3g2NC5hcHAuemlwCjR0dkxEbFlTNU1nZlp2STI3dUpYNmFES3QydkFEMDAySmFncXhDR0p4czU4ZVpXdXYra2tYenVWUTdNK1NETzBXTHh3RmNPN084OWFsaEx2Sk93aER3PT0K",
-      "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.3/Warp-Gateway_0.1.3_x64.app.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZLMU1mK0pLOW9qUWRkTG02Mlgvakx3cjBUc3JhVkl2K09ncy9pbmU2d3RURzBEakpkNzhsUVQyWjlDZ1ZIemZybnplYWdzWTQ0dDd2S3VOd1BZUUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI2ODE2CWZpbGU6V2FycC1HYXRld2F5XzAuMS4yX3g2NC5hcHAudGFyLmd6CjFRdEtuazZ6MzBpNndVSTF2UDU5MHRsb1lqaG1iRGFwWkMvVHJ5Rk1QalgyZmNGQ2psWGVmQW9rZk42QjQyOWZtVWQ2MzQ0dTlhRy9VNUxuWEZHSkJRPT0K",
+      "url": "https://github.com/Daibhid666/warp-gateway-tauri/releases/download/v0.1.2/Warp-Gateway_0.1.2_x64.app.tar.gz"
     }
   }
 }
