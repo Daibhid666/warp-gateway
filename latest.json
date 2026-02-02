@@ -1,15 +1,19 @@
 {
-  "version": "0.1.6",
-  "notes": "Auto release v0.1.6",
-  "pub_date": "2026-02-01T18:30:10Z",
+  "version": "0.1.7",
+  "notes": "Auto release v0.1.7",
+  "pub_date": "2026-02-02T00:01:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDFyWXg4bWZRU0pYMTJsdG15NU1GWm9OV1JYanZSU3RIOFlQNU5DQkVuT0habnJYcE5SWmlRVnpKd283cmx6VVd5c2lxKyszUUJ1UVAxd0dJL1FvOXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTQwMzg3CWZpbGU6V2FycC5HYXRld2F5XzAuMS42X3g2NC1zZXR1cC5leGUKcUR2ZU8wVFpKN1VzVWcvc3dSUVhPbSsvNVgwVG1xUFV2ZGN3LzI2TVM0a3Y0RU1YWU9KSHAwd3JHaTJvaHVpMFQrbVQxOVVOTmsvS2prQ3c5dWlIQmc9PQo=",
-      "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.6/Warp.Gateway_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZDMGJOR1FjdjkxWm4wTE9kdXdydnliclhNbkwzREhqUjhEdWcyZFU3VmVCb0dDa2dueW9wdjdmY0pySlJFR2FCdHRTaGpOZmFLSHRwbUxDa2JpOXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkwNDk2CWZpbGU6V2FycC5HYXRld2F5XzAuMS43X3g2NC1zZXR1cC5leGUKZGYxMnJ5aXBKTTB2NDF6SFAzMkNveUpaVjNuVnErU3FOdG1qRE1mOEJsVmhVaVEwSzdYN0tZU0NNeDc3aWhiek9oYUlzVmFjRjJzb2JWTDQxK2FJREE9PQo=",
+      "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.7/Warp.Gateway_0.1.7_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDR4OVoydU5ucExEMTFkRnFOTW5HTUNXSGFpRVdWeThWditoTFFZT2xYeld1L01RaWNKY3pBdU51RnBFeHFXQkRVbkpyTEE4SU0zcnRTdXlFRld5b3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTUyMzkzCWZpbGU6V2FycC5HYXRld2F5X2FhcmNoNjQudGFyLmd6Cmk4bGFpaDZHLzB2dnQya1o1R3FsNzhyaHlQdnRiZmxVM1ZUdlYvRm1vT3RUcFpFYlBNVnp2Zm1FblhHY1h4YWNaNjlwWGtNY2I2VzNpNmQwN24zNkJRPT0K",
+      "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.7/Warp.Gateway_aarch64.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHoxTVFJNFFHUWs2djZsUS9mV0gwNktFNDkrQk1KYzl6eStUTUVCUVlmNWFqNXI5UG4wTmF0VFdSTHZtSkdBa1Y5YmU5STNVUnBIR2QzT1VZQk5zbFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTM5ODI0CWZpbGU6V2FycC5HYXRld2F5XzAuMS42X3g2NC5hcHAudGFyLmd6CnlPUmlGT1dScE9FdHIvT1J2ZU9RMWZkaEFsVUJWb0tvSzBqdXJ5MXZ4WWdvNld4OVc3bTg1QTRjWm94WjcwVU50U01XeGhKM0N2QndoN0dvR21IQURRPT0K",
-      "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.6/Warp.Gateway_0.1.6_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHpsaDR3U1AyeWFmR09idzJUdXNrWTF3YzRuQWlZZWp6RkVvMHAzSTJCdFQxY2hUOUtYVjZpYzlnWlNsNk45d0M0RHJrZ1N5ZmMyajNHa3ZmQ1VBMUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTUyMzk1CWZpbGU6V2FycC5HYXRld2F5X3g2NC50YXIuZ3oKY3NnN01Ga2lVNzBIR2RWVmZXNXVPQkpKS0ZDV1BWOVJZSHNNU3Arc0dFZkswZXYrN3NQRk1PZ0tlb1JlNVA2V1ptMS9LUjFnb1JZM1c0clZsdFBRQ3c9PQo=",
+      "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.7/Warp.Gateway_x64.tar.gz"
     }
   }
 }
