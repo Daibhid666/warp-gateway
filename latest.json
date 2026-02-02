@@ -1,10 +1,10 @@
 {
   "version": "0.1.7",
   "notes": "Auto release v0.1.7",
-  "pub_date": "2026-02-02T00:34:40Z",
+  "pub_date": "2026-02-02T01:03:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHd0dFc4Ris0VndzYkZHSHUzd1laWHUzQXRobVJUNi8wR3RjN1ZRV1RzK3lqSHE3SEZFNlNHUDFHMGVjTjN6SzZWQ21CWEt1cjcrZU8xNmk4VjVwMmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkyNDgwCWZpbGU6V2FycC5HYXRld2F5XzAuMS43X3g2NC1zZXR1cC5leGUKUDY3UXRDL0RkU2gyN0lOOFZnS3RiZnNXV2FsVWFkS2JFN3dyMXNQOUwrdE8yYWRRRDk1YVg4azkvVnI1VDY1ZDYvam56QS9RaUU1SVp6TldoSTc3Q1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDV5VjBSaWhiVTgvUkZ0Z1NWRno3bU01c3pzcEs5VlBvdDdmbEFWUnZwT29GdXc2a3BkdktGZFI5K2hSOHNzeEV1WXFYSXFJZlhJY0ZJUDlqdXJ5U3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTk0MjA3CWZpbGU6V2FycC5HYXRld2F5XzAuMS43X3g2NC1zZXR1cC5leGUKYmdDT0hXQWI0UWxJN3piYmtET1ZnU09nUlk0aEd1cmhoallicEgydUtqODBXeStpdVlNdW9KVFpZL0pYKzhONHFDSHlwV29GWUlWSWxvVW9mNVd4QXc9PQo=",
       "url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.7/Warp.Gateway_0.1.7_x64-setup.exe"
     },
     "darwin-aarch64": {
