@@ -3,10 +3,10 @@
 	"notes": "🛠️ 优化\\n- 修复切换启动无法启动warp问题",
 	"pub_date": "2026-02-02T14:40:35Z",
 	"platforms": {
-			"windows-x86_64": {
-				"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZjSUVXNCt3VHdsSk1SN3FNOHB1a3M0UTFzU2tud1BZd0xRZWFTNGk1UEVWUTI1d2xkcGhMWVBKYzI3RC9ONzFySHQ5SGt2S2FSWW1jN2s1WnZ0dlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDE5NTc3CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMF94NjQtc2V0dXAuZXhlCmgyK0tWQTkxRllrTHMzVXp3bDhVNnFTSDlGamh1cGJLWk5oUXZJS1NWMHZWd2Z4VGdKUS82UDc0UnVhaGdrM01Wc3VZTEdjSXVUT0hLeG5YcU5MZUN3PT0K",
-				"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.10/Warp.Gateway_0.1.10_x64-setup.exe"
-			},
+			           "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDRHYWw5U0RQSUl3RGVMQ2RZNy9JOUh3ZzdralBKNSs4amFnRXVwaGdMWUgvZHFUcUxacUpSV2YrSEFRNHlMQ29idVlQWGxXZ25DUmFjTXVYeklpOHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDIzMDkyCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMV94NjQtc2V0dXAuZXhlCktQMzJ0ZlhqRm5NYndDZlE0NDR0Wk5PTnd3bzZIVU8zbUNoZ3VrVTEwVFkyOEJ5bFNNbUtPdkliOHJzSGJGYm9uM3QrVnNuSDA3ekFuWmF0T2ZGU0FnPT0K",
+                                             "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.11/Warp.Gateway_0.1.11_x64-setup.exe"
+                                         },
 		"darwin-aarch64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZIeStwNFRCOEl0TS9OeXZ2WW9BdDMwZFVOcHhyeEdnVzhDZTU3b0RKeUFZVDJNdktZVnFRL1hsbHJOL2R4cEpIYlA3cVpncGNidHZrcnFMSVBFTFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkyMjA1CWZpbGU6V2FycC5HYXRld2F5XzAuMS43X2FhcmNoNjQudGFyLmd6CkpvVDdFUEhhcGF1WjhkUnlRWUFnQ3hZdE5BNmFsODc1SXhhODNQZ1Y0U3VQcDAzdHhNaFNFb3JOSXdOQ0kvS0I3TzFLNlZHQWxjVXhKeFNFMGNyTEN3PT0K",
 			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.8/Warp.Gateway_0.1.8_aarch64.tar.gz"
