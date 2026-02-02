@@ -8,7 +8,7 @@
                                              "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.11/Warp.Gateway_0.1.11_x64-setup.exe"
                                          },
 		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZJZTBPcGtrV3RVbW51Z0hmemdxd0NJdkNKSTFaTkIrbGJxUU5SZ1BKc0JIeFZlMTlrMDBpMlR2dkpJM3I3SUZmbmE1SmpPTkZlbTBjbnNSRWVoSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQxMDMwCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMF94NjQuYXBwLnRhci5negpvRi9YWktHTFpxK3A3eVFqN003RG1ydjBrdXJncmlPZTNwS010NzV1dlIyVmZlQk42dFJoNHFkcEQ0UEFUNTZNT2VYcjI2OGg4OGR4bm5zRDZ4RlJDUT09Cg=",
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZJZTBPcGtrV3RVbW51Z0hmemdxd0NJdkNKSTFaTkIrbGJxUU5SZ1BKc0JIeFZlMTlrMDBpMlR2dkpJM3I3SUZmbmE1SmpPTkZlbTBjbnNSRWVoSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQxMDMwCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMF94NjQuYXBwLnRhci5negpvRi9YWktHTFpxK3A3eVFqN003RG1ydjBrdXJncmlPZTNwS010NzV1dlIyVmZlQk42dFJoNHFkcEQ0UEFUNTZNT2VYcjI2OGg4OGR4bm5zRDZ4RlJDUT09Cg==",
 			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.10/Warp.Gateway_0.1.10_x64.app.tar.gz"
 		},
 		"darwin-x86_64": {
