@@ -1,12 +1,12 @@
 {
-	"version": "0.1.8",
+	"version": "0.1.9",
 	"notes": "🛠️ 优化\\n- 自动更新流程优化：提升更新成功率与稳定性\\n- UI 细节优化：弹窗与按钮样式统一，提示信息更清晰",
-	"pub_date": "2026-02-02T02:23:35Z",
+	"pub_date": "2026-02-02T14:40:35Z",
 	"platforms": {
-		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDBkTE1SNEFGdkNCZVQvSFhMSHNjSW92bWhPYnhvWFArZVJydFltRFZESkt5ejRUelFoSFc5VnpGM1Z2SkhMMzFORUpGNmhvU3lIbHJucDFKQ1lUN2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTk5MDEyCWZpbGU6V2FycC5HYXRld2F5XzAuMS44X3g2NC1zZXR1cC5leGUKY3RyTDBFN3BHQ1NEK2FaMndvald4Um55aHE1RktmeklScVZDRk5WUytWak5tWVFoamlRVzJzTFlvYXRHMm45alBlekMxbnBKR3VPZ1RWM2lPS2VJQVE9PQo=",
-			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.8/Warp.Gateway_0.1.8_x64-setup.exe"
-		},
+			"windows-x86_64": {
+				"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDJHTkdRWGdwcVZocVN4OGphalMrMjRjZlVnMzNXSUJVN2dtYVBwM2VKVkFFYUcyc1NDa0k4cXFWTVRURlVIdldjd0JvSExGdXVHMk9OSGZnN3pBVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDE0NTc3CWZpbGU6V2FycC5HYXRld2F5XzAuMS45X3g2NC1zZXR1cC5leGUKbVM3QWJxczd2Q2VQQzhiQ0VTKzVhVUxNeUx2aW9mcjdmTWZuTDkzMTJybmFsb2FsTTExTXp6WHZ5NE9qdUUzM1NRY1BnYmRleUdDOFNzQlZKemp5Qnc9PQo=",
+				"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.9/Warp.Gateway_0.1.9_x64-setup.exe"
+			},
 		"darwin-aarch64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZIeStwNFRCOEl0TS9OeXZ2WW9BdDMwZFVOcHhyeEdnVzhDZTU3b0RKeUFZVDJNdktZVnFRL1hsbHJOL2R4cEpIYlA3cVpncGNidHZrcnFMSVBFTFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkyMjA1CWZpbGU6V2FycC5HYXRld2F5XzAuMS43X2FhcmNoNjQudGFyLmd6CkpvVDdFUEhhcGF1WjhkUnlRWUFnQ3hZdE5BNmFsODc1SXhhODNQZ1Y0U3VQcDAzdHhNaFNFb3JOSXdOQ0kvS0I3TzFLNlZHQWxjVXhKeFNFMGNyTEN3PT0K",
 			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.8/Warp.Gateway_0.1.8_aarch64.tar.gz"
