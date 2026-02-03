@@ -3,17 +3,17 @@
 	"notes": "\\n- 新增个性化主题 \\n- 修复账号切换问题",
 	"pub_date": "2026-02-02T14:40:35Z",
 	"platforms": {
-			           "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHpDS2NPWUxleVpXOFpxV0pseHpzaytsMzdtUmZLN0lzb0Q2bG9xSm4zOTVHSGZjdWQwTklWLzN5OXRSeGNzSllyNzdLVTgrZGh3bGJMcTRPRXZPUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTAyMTUxCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMl94NjQtc2V0dXAuZXhlCi9kMzdmclNqbEhhSThxb2M5b0RsOCtDUVFpeEdxTlQwZ3JRdTdwV1lYUDFLTHNZV2pyZTNKdmw4VVZ3aTd4OXNoM0VPbXYrSHJHdGNHOVVFWlZsR0FnPT0K",
-                                             "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.12/Warp.Gateway_0.1.12_x64-setup.exe"
-                                         },
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHpDS2NPWUxleVpXOFpxV0pseHpzaytsMzdtUmZLN0lzb0Q2bG9xSm4zOTVHSGZjdWQwTklWLzN5OXRSeGNzSllyNzdLVTgrZGh3bGJMcTRPRXZPUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTAyMTUxCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMl94NjQtc2V0dXAuZXhlCi9kMzdmclNqbEhhSThxb2M5b0RsOCtDUVFpeEdxTlQwZ3JRdTdwV1lYUDFLTHNZV2pyZTNKdmw4VVZ3aTd4OXNoM0VPbXYrSHJHdGNHOVVFWlZsR0FnPT0K",
+			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.12/Warp.Gateway_0.1.12_x64-setup.exe"
+		},
 		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZJZTBPcGtrV3RVbW51Z0hmemdxd0NJdkNKSTFaTkIrbGJxUU5SZ1BKc0JIeFZlMTlrMDBpMlR2dkpJM3I3SUZmbmE1SmpPTkZlbTBjbnNSRWVoSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQxMDMwCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMF94NjQuYXBwLnRhci5negpvRi9YWktHTFpxK3A3eVFqN003RG1ydjBrdXJncmlPZTNwS010NzV1dlIyVmZlQk42dFJoNHFkcEQ0UEFUNTZNT2VYcjI2OGg4OGR4bm5zRDZ4RlJDUT09Cg==",
-			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.10/Warp.Gateway_0.1.10_x64.app.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDd3OVRJSkYzbVViRFNMT0NyQ1ZxYUdXNmExbklJZ05rcnFENkdYY1JDKytYV3pkamgrSkFoa3hMdVFTSU4vTGx2QVYzaStONWI1anpsSk05MitMd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTMwNzYyCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMl94NjQuYXBwLnRhci5negpFNXpQcG41MVlWUXl0clAyU1RkdHVpVTRYaStlTE9Ld25RelVrTjJrejJqK2VJbzV5U0hiS2E1TU9oZmJ6czJncXdyRGFhTUJPK0Fvci80Ri93WEZCZz09Cg==",
+			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.12/Warp.Gateway_0.1.12_x64.app.tar.gz"
 		},
 		"darwin-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDZJZTBPcGtrV3RVbW51Z0hmemdxd0NJdkNKSTFaTkIrbGJxUU5SZ1BKc0JIeFZlMTlrMDBpMlR2dkpJM3I3SUZmbmE1SmpPTkZlbTBjbnNSRWVoSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQxMDMwCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMF94NjQuYXBwLnRhci5negpvRi9YWktHTFpxK3A3eVFqN003RG1ydjBrdXJncmlPZTNwS010NzV1dlIyVmZlQk42dFJoNHFkcEQ0UEFUNTZNT2VYcjI2OGg4OGR4bm5zRDZ4RlJDUT09Cg==",
-			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.10/Warp.Gateway_0.1.10_x64.app.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDd3OVRJSkYzbVViRFNMT0NyQ1ZxYUdXNmExbklJZ05rcnFENkdYY1JDKytYV3pkamgrSkFoa3hMdVFTSU4vTGx2QVYzaStONWI1anpsSk05MitMd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTMwNzYyCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xMl94NjQuYXBwLnRhci5negpFNXpQcG41MVlWUXl0clAyU1RkdHVpVTRYaStlTE9Ld25RelVrTjJrejJqK2VJbzV5U0hiS2E1TU9oZmJ6czJncXdyRGFhTUJPK0Fvci80Ri93WEZCZz09Cg==",
+			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.12/Warp.Gateway_0.1.12_x64.app.tar.gz"
 		}
 	}
 }
