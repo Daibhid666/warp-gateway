@@ -1,7 +1,7 @@
 {
-	"version": "0.1.12",
+	"version": "0.1.13",
 	"notes": "\\n- 修复更新无法覆盖包问题 \\n- 优化界面功能",
-	"pub_date": "2026-02-02T14:40:35Z",
+	"pub_date": "2026-02-04T21:40:35Z",
 	"platforms": {
 		"windows-x86_64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDFaZWU5ZFVvNUdNTFdNVG1tOGViOStvbllIMkE5ckhLZExHc2dwbXdwOWJjK3ZyYmRWMW10L2Q3ckxZdUd5cmJ4eTZZM3FlVEg0bGw5L3Q2Q1IxYmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTk5ODA0CWZpbGU6V2FycCBHYXRld2F5XzAuMS4xMl94NjRfZW4tVVMubXNpClBPdUFzOGhGU3hqSGtBYys3TEhad2JTUUZ1Vk1icmJHN1IrZjlMR3lWRnIzTEVQRkFxM0dIWUJnajZsQUpPUkRRczJ6ektzUVM0UWVEamE0NVdVVkRBPT0K",
