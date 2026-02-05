@@ -1,7 +1,7 @@
 {
-	"version": "0.1.13",
-	"notes": "\\n- 修复更新无法覆盖包问题 \\n- 优化界面功能",
-	"pub_date": "2026-02-04T21:40:35Z",
+	"version": "0.1.14",
+	"notes": "\\n- 修复手动切换号问题 \\n- 优化界面功能",
+	"pub_date": "2026-02-05T21:40:35Z",
 	"platforms": {
 		"windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDRtbkZHdVpaN08vSUphRm52ak9zNTY5ZkF2T0JNM0wyckRVanRFa0RjUkRWbG9MeHFFbzc5UWFGZ3pWVXF1OXJ1V0x5TTI5cFlzSjZPeVA0aHZFK0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjYwNjI2CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xM194NjQtc2V0dXAuZXhlClBkZ1hyaXE0MkNPdVlWS1dsTk80ZTFheS9wUlZwZDMvVE0vRW5BODkzdkJKOUh4bmR2U3JPOXhGZzJhV1RLUWFWQWUxN3FVYzhHM1FsT0ZUcy8vTUNBPT0K",
