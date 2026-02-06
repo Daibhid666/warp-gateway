@@ -1,6 +1,6 @@
 {
 	"version": "0.1.14",
-	"notes": "\\n- 修复手动切换号问题 \\n- 优化界面功能",
+	"notes": "\\n- 优化界面功能",
 	"pub_date": "2026-02-06T21:40:35Z",
 	"platforms": {
 		"windows-x86_64":  {
@@ -8,12 +8,12 @@
             "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.14/Warp.Gateway_0.1.14_x64-setup.exe"
         },
 		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDQweEJPN09UMUJPaXN6R1VpcEFQcStJUXgzL0FEZ25xenM4Vk9LZG9SclI4WHFWVWFYbEgxbGhhSk5rcXhobkp5ZDJJWHZBOTRiVU4zNkVWeEVHbVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjk5MTEzCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNF94NjQuYXBwLnRhci5negpsQ0Q1WDhXN1BWWUJXcmtaVmpPdzBUL3lCV290eXRPTmYzNmlicnVmSHNiYkVEaTBtbXNjOGxwUzhqZnJSRnlRUTRvQmhUUzcraEtCUVBTYlpmUk1CQT09Cg==",
-			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.14/Warp.Gateway_0.1.14_x64.app.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNCtTVityejlIcElZR080OXg2Vy9oK3NxQXgyek9Pa1o3OHpPS1VtT0o4M0E2SkhzL3N0ZmZTY0RkMnNPSlBzL3I4OFZyWEtHa01LTkNnZUxySHpseUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzc2Nzg5CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQuYXBwLnRhci5negpNVDUzMktvcmhkYXAxV3lvWkZRQkVGdUF5Wm9SdFdoK0wvVUl2QzM3WU5VanIrRUExUjdMR2NDMlJobFdvQjhVaUQzTVZnRzdkbUVTampjTnUzUGNCZz09Cg==",
+			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.15/Warp.Gateway_0.1.15_x64.app.tar.gz"
 		},
 		"darwin-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDQweEJPN09UMUJPaXN6R1VpcEFQcStJUXgzL0FEZ25xenM4Vk9LZG9SclI4WHFWVWFYbEgxbGhhSk5rcXhobkp5ZDJJWHZBOTRiVU4zNkVWeEVHbVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjk5MTEzCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNF94NjQuYXBwLnRhci5negpsQ0Q1WDhXN1BWWUJXcmtaVmpPdzBUL3lCV290eXRPTmYzNmlicnVmSHNiYkVEaTBtbXNjOGxwUzhqZnJSRnlRUTRvQmhUUzcraEtCUVBTYlpmUk1CQT09Cg==",
-			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.14/Warp.Gateway_0.1.14_x64.app.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNCtTVityejlIcElZR080OXg2Vy9oK3NxQXgyek9Pa1o3OHpPS1VtT0o4M0E2SkhzL3N0ZmZTY0RkMnNPSlBzL3I4OFZyWEtHa01LTkNnZUxySHpseUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzc2Nzg5CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQuYXBwLnRhci5negpNVDUzMktvcmhkYXAxV3lvWkZRQkVGdUF5Wm9SdFdoK0wvVUl2QzM3WU5VanIrRUExUjdMR2NDMlJobFdvQjhVaUQzTVZnRzdkbUVTampjTnUzUGNCZz09Cg==",
+			"url": "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.15/Warp.Gateway_0.1.15_x64.app.tar.gz"
 		}
 	}
 }
