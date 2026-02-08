@@ -4,7 +4,7 @@
 	"pub_date": "2026-02-06T21:40:35Z",
 	"platforms": {
 		"windows-x86_64":  {
-            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHg2alNqS1ZzTUwySkpRQnJybldIZXR5b28vZEZDQS80K1BkaVRLQ2pmdmVrOHBqaHR3alppWkVxekZCUGtFY0Y4TVZ4MlVGTWJBbWVBVDVIaFpkVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTMwODMwCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQtc2V0dXAuZXhlCkFIYTBjb2Rrc1pCQ0twcU1odGZncDZKVmd0UGZVQ2gxUm1QMGtNalBzQkc0emduaytSNjl6bkdoekNteW9NckE2eVB4UzZSMmdVdUswS3Iwc2tTNEJBPT0K",
+            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHd1M2VzQm9UbERzN2pFY0t1Q3dLNUY5UWY0WVROd2JQaDByeDdvZmQ5WlBYNGtQTU9pK2EvelpuR2tNd0hnK0hIRzRIOFRqckxIVWhkL3NZKytEOEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTM0ODg2CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQtc2V0dXAuZXhlCkZodlYyc0lKSGpacE5EVVY4b0RrTU10TTV0ZW9OZEpISkh3bDJYZHc0YWVYTitVS1h6emdhSzN2ejdqR3cvM3RkNStrT3RVVFZXQk9sK3ZwcnBIYkN3PT0K",
             "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.15/Warp.Gateway_0.1.15_x64-setup.exe"
         },
 		"darwin-aarch64": {
