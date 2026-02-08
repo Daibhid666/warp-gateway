@@ -1,7 +1,7 @@
 {
 	"version": "0.1.15",
 	"notes": "\\n- 优化界面功能 \\n- 修复手动账户切换问题",
-	"pub_date": "2026-02-06T21:40:35Z",
+	"pub_date": "2026-02-08T16:40:35Z",
 	"platforms": {
 		"windows-x86_64":  {
             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHd1M2VzQm9UbERzN2pFY0t1Q3dLNUY5UWY0WVROd2JQaDByeDdvZmQ5WlBYNGtQTU9pK2EvelpuR2tNd0hnK0hIRzRIOFRqckxIVWhkL3NZKytEOEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTM0ODg2CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQtc2V0dXAuZXhlCkZodlYyc0lKSGpacE5EVVY4b0RrTU10TTV0ZW9OZEpISkh3bDJYZHc0YWVYTitVS1h6emdhSzN2ejdqR3cvM3RkNStrT3RVVFZXQk9sK3ZwcnBIYkN3PT0K",
