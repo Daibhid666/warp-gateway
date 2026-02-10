@@ -1,7 +1,7 @@
 {
 	"version": "0.1.16",
 	"notes": "\\n- 修复自动同步无法同步规则和mcp问题",
-	"pub_date": "2026-02-08T16:40:35Z",
+	"pub_date": "2026-02-10T16:40:35Z",
 	"platforms": {
 		"windows-x86_64":  {
             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHlzZk5BUEIzOWdiWDJYSFRDdXRtY0pnZ0xMZnNKTFpCSU8vNzF5WDdXTEgxWkwyVW1kSEgvbkVNWDIySzMvb0lpQ0R3d1kzYTQvSlZuOGNvR3VrOHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzE0NDkzCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNl94NjQtc2V0dXAuZXhlCjN3QTlPdVUzRnlIRXpTTytnUDk0VUJHTHp6UHk0WVJ3MHJFdnh5dnA5WmtESDBHbjVEbGdXN2M4YndWQkdoclhSaEVMUlBaWlhtdmRKOEhqMForREFBPT0K",
