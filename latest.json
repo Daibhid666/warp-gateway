@@ -1,11 +1,11 @@
 {
-	"version": "0.1.15",
-	"notes": "\\n- 优化界面功能 \\n- 修复手动账户切换问题",
+	"version": "0.1.16",
+	"notes": "\\n- 修复自动同步无法同步规则和mcp问题",
 	"pub_date": "2026-02-08T16:40:35Z",
 	"platforms": {
 		"windows-x86_64":  {
-            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHd1M2VzQm9UbERzN2pFY0t1Q3dLNUY5UWY0WVROd2JQaDByeDdvZmQ5WlBYNGtQTU9pK2EvelpuR2tNd0hnK0hIRzRIOFRqckxIVWhkL3NZKytEOEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTM0ODg2CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQtc2V0dXAuZXhlCkZodlYyc0lKSGpacE5EVVY4b0RrTU10TTV0ZW9OZEpISkh3bDJYZHc0YWVYTitVS1h6emdhSzN2ejdqR3cvM3RkNStrT3RVVFZXQk9sK3ZwcnBIYkN3PT0K",
-            "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.15/Warp.Gateway_0.1.15_x64-setup.exe"
+            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNHlzZk5BUEIzOWdiWDJYSFRDdXRtY0pnZ0xMZnNKTFpCSU8vNzF5WDdXTEgxWkwyVW1kSEgvbkVNWDIySzMvb0lpQ0R3d1kzYTQvSlZuOGNvR3VrOHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzE0NDkzCWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNl94NjQtc2V0dXAuZXhlCjN3QTlPdVUzRnlIRXpTTytnUDk0VUJHTHp6UHk0WVJ3MHJFdnh5dnA5WmtESDBHbjVEbGdXN2M4YndWQkdoclhSaEVMUlBaWlhtdmRKOEhqMForREFBPT0K",
+            "url":  "https://github.com/Daibhid666/warp-gateway/releases/download/v0.1.16/Warp.Gateway_0.1.16_x64-setup.exe"
         },
 		"darwin-aarch64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVAxQ09hczVCNDF1RVVyZFNpYlpKc0lQUVNrVmNjV1pZa0lrZFZiaVoyS2IwdENGV2RaZyt3SGtVVkdFanVjWVpDMWFUaHc2eWZDRjFWWjNwMS9Ia2VyNzJBNi8rZEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTI5NzU1CWZpbGU6V2FycC5HYXRld2F5XzAuMS4xNV94NjQuYXBwLnRhci5negpsWGZub3FPeGw1VGVickRmODJkWXl1ZzVzYWQvTEFmenN4WE9RWTBjdDZ0bkNZTWhKWWxjdGltSzRQdExaeHZWVkVkd2RSRGFCdEJVUkNEaWpuVDRCZz09Cg==",
